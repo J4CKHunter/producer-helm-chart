@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  producer-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-13T17:07:53.123155+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 199c7a97c1fc67768e85a9e90552222c500e324d1b7ac41aa42605011b7aa9c5
+    name: producer-helm
+    type: application
+    urls:
+    - producer-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-13T17:07:53.122173+03:00"
